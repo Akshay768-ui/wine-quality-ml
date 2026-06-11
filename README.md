@@ -1,5 +1,3 @@
-# wine-quality-ml
-
 # Wine Quality Prediction
 
 ## Overview
